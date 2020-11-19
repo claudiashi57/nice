@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d1244fc-efaf-4519-b700-bf6d87380a9f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../src/code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/code/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/10000000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/Imbens- EDA.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/data_splitting/.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/data_splitting/data_split.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/data_splitting/data_splitting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/data_splitting/history.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/data_splitting/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/data_splitting/run_scripts/run_local.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/code/data_splitting/run_scripts/run_local.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/experiment_synthetic/.ipynb_checkpoints/claudia-hack-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/experiment_synthetic/.ipynb_checkpoints/icp-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/experiment_synthetic/claudia-hack.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/experiment_synthetic/experiment1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/experiment_synthetic/icp.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/notebooks/speed_tables.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/code/notebooks/speed_tables.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/old_speed_dating/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/old_speed_dating/run_script/run_gpu.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/old_speed_dating/run_script/run_local.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/old_speed_dating/run_script/submit_job.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/code/speed_tables.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1aXGFXcgtWjx5qCazVaYTdu2h3B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/freelunch/run_scripts" />
+      <recent name="$PROJECT_DIR$/speed_dating" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/freelunch/notebooks" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="models2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="$USER_HOME$/opt/anaconda3/envs/irm" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experiment_synthetic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiment_synthetic/models2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.models2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d1244fc-efaf-4519-b700-bf6d87380a9f" name="Default Changelist" comment="" />
+      <created>1575529378255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575529378255</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605732950351">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.-1236.1440.2560@0.0.1440.900" timestamp="1605732950351" />
+    <state x="169" y="180" key="FileChooserDialogImpl" timestamp="1601037347962">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="169" y="180" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1601037347962" />
+    <state x="169" y="182" key="FileChooserDialogImpl/0.23.1440.797@0.23.1440.797" timestamp="1599580760286" />
+    <state x="423" y="234" width="600" height="486" key="find.popup" timestamp="1603157874287">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="423" y="234" width="600" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1603157874287" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1600885505075">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1600885505075" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/colored_mnist/non-linear-sem.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
