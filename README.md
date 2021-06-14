@@ -1,7 +1,7 @@
 # Invariant Representation Learningfor Treatment Effect Estimation
 # Introduction
 
-This repository contains software and data for Invariant Representation Learningfor Treatment Effect Estimation.
+This repository contains software and data for Invariant Representation Learning for Treatment Effect Estimation.
 
 This paper develops nearly invariant causal estimation (NICE), an estimation procedure for causal inference from observational data where the data comes from multiple datasets. The datasets are drawn from distinct environments, corresponding to distinct distributions. Each environment has the same causal mechanism for the outcome, but the distributions are different in other ways. Using
 [invariant risk minimization](https://arxiv.org/abs/1907.02893), NICE takes advantage of the differences and similarities across the datasets to estimate the causal effect.
