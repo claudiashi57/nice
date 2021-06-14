@@ -1,4 +1,4 @@
-# Invariant Representation Learningfor Treatment Effect Estimation
+# Invariant Representation Learning for Treatment Effect Estimation
 # Introduction
 
 This repository contains software and data for Invariant Representation Learning for Treatment Effect Estimation.
